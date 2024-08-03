@@ -8,6 +8,6 @@ class Name{
 
 public class AnonymousObject{
 	public static void main(String args[]){
-		new Name();
+		new Name(); // anonymous object
 	}
 }
