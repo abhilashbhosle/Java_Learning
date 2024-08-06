@@ -1,0 +1,12 @@
+Poly means many morphism means behaviour.
+It is divided into two types 1.RunTime Polymorphism 2.CompileTime Polymorphism. 
+
+1.RunTime Polymorphism.
+=======================
+The execution or behaviour is known during runtime is called runtime polymorphism 
+eg. Method Overloading.
+
+1.CompileTime Polymorphism.
+=======================
+The execution or behaviour is known during compilation is called compileTime polymorphism 
+eg. Method Overriding.
